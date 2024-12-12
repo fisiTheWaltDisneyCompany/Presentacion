@@ -1,0 +1,9 @@
+.d{color:#414190;font-size: 30px}
+.b{color:#414190;font-size:50px;text-align: center;text-decoration-line: underline;font-family:'Gill Sans';font-weight: bold}
+.q{background-image:url(tk.jpg)}
+.s{background-color:#414190;border-width: 5px;border-color: yellow;border-style: dotted}
+.v{width: 290px}
+.mm{float: right;width: 350px}
+.lo{display: scroll;position: fixed;bottom:710px;right: 0}
+.ll{display: scroll;position: fixed;bottom:0px;left: 0}
+.fu{background-color:rgba(179, 241, 239, 0.674);font-size: 25px}
